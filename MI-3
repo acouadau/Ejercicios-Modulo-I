@@ -10,6 +10,6 @@ int main ()
    mes:MM;
    día:DD;
    
-   std::COUT<<día<<mes<<año<<endl;
+   std::cout<<día<<mes<<año<<endl;
    
 }
