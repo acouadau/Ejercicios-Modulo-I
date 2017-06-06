@@ -1,0 +1,15 @@
+#include <iostream>
+int main () 
+{
+   int A, B;
+   int suma, resta, producto;
+   
+   std::cin>>a>>b
+   
+   suma=a+b
+   resta=a-b
+   producto=a*b
+   
+   std::cout<<suma<<endl<<resta<<endl<<producto<<endl;
+      
+}
