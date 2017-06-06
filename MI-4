@@ -1,0 +1,14 @@
+#include <iostream>
+int main ()
+{
+   int a;
+   int quintaparte, resto, séptimaparte;
+   
+   std::cin>>a;
+   
+   quintaparte = a/5;
+   resto = a%5;
+   séptimaparte = a/7;
+   
+   std::cout<<quintaparte<<resto<<séptimaparte<<endl;
+ }
