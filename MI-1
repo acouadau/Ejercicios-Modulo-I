@@ -4,11 +4,11 @@ int main ()
    int A, B;
    int suma, resta, producto;
    
-   std::cin>>A>>B
+   std::cin>>A>>B;
    
-   suma=A+B
-   resta=A-B
-   producto=A*B
+   suma=A+B;
+   resta=A-B;
+   producto=A*B;
    
    std::cout<<suma<<endl<<resta<<endl<<producto<<endl;
       
