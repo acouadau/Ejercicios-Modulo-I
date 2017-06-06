@@ -1,0 +1,15 @@
+#include <iostream>
+int main ()
+{
+   int año,mes,día,fecha;
+   
+   std::cin>>fecha;
+   
+   fecha: AAAAMMDD
+   año:AAAA;
+   mes:MM;
+   día:DD;
+   
+   std::COUT<<día<<mes<<año<<endl;
+   
+}
