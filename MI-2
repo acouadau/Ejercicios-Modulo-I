@@ -1,0 +1,13 @@
+# include <iostream>
+int main ()
+{
+    int año, mes, día, fecha;
+    
+    std:cin>>fecha;
+    
+    año= fecha/10000;
+    mes= fecha/100;
+    día= fecha (aaaammdd);
+    
+    stdout::<<año (4 dígitos)<<mes (2 dígitos)<<día (2 dígitos)<<endl;
+}
